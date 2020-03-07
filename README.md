@@ -14,14 +14,14 @@ It can be powered by many devices such as a raspberry pi, your own unused laptop
 3. Information like
    * Weather at your location.
    * Current time and date
-   * User's stock details
+   * User's social media feeds.
    * Users's events
    * News Headlines
    * Business News, Technology News, World News, Sports News 
    * Calender
    * Map of your current location
    * Quotes
-4. Customised User Experience by providing information about things like Stocks that the user like to see everyday, what are his events today.
+4. Customised User Experience by providing information about things that the user like to see everyday, what are his/her events today.
 
 ## Implementation
 ### Registration
@@ -74,7 +74,7 @@ The current implementation is prone to disturbances like noise from surrounding 
 
 ## Future Work
 ### Following things can be implemented in the near future :-
-* The mirror acts like a personal assistant where it has control over all the devices at our house and women who spend most of the time in front of mirror can get their work done by giving voice commands.
+* The mirror acts like a personal assistant where it has control over all the devices at my house and people who spend most of the time in front of mirror can get their work done by giving voice commands.
 * By adding touchscreen facility it improves user experience.
 
 ## Final Product
